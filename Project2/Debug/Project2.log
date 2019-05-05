@@ -1,0 +1,293 @@
+﻿  PE.CPP
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(346): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(348): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(350): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(352): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(354): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(356): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(358): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(360): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(362): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(364): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(366): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(368): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(370): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(372): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(374): warning C4477: “sprintf”: 格式字符串“%0*X”需要类型“unsigned int”的参数，但可变参数 5 拥有了类型“WORD *”
+  e:\编程项目\调试器\dbgproject\project2\pe.cpp(374): note: 此参数由转换说明符使用
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(374): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(376): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(378): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(380): warning C4477: “sprintf”: 格式字符串“%0*X”需要类型“unsigned int”的参数，但可变参数 5 拥有了类型“WORD *”
+  e:\编程项目\调试器\dbgproject\project2\pe.cpp(380): note: 此参数由转换说明符使用
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(380): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(382): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(394): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(396): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(398): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(400): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(402): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(405): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(407): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(419): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(421): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(423): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(425): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(427): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(429): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(431): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(433): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(435): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(438): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(440): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(442): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(444): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(446): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(448): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(450): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(452): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(454): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(456): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(458): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(460): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(462): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(464): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(466): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(468): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(470): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(472): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(473): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(474): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(475): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(476): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(477): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(478): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(479): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(480): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(481): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(505): warning C4018: “<”: 有符号/无符号不匹配
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(522): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(525): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(535): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(559): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(569): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(590): warning C4018: “<”: 有符号/无符号不匹配
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(597): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(601): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(615): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(616): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(617): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(618): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(619): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(620): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(621): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(622): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(623): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(624): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(625): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(626): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(627): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(628): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(629): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(630): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(631): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(632): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(635): warning C4474: _snprintf: 格式字符串中传递的参数太多
+  e:\编程项目\调试器\dbgproject\project2\pe.cpp(635): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(635): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(653): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(716): warning C4018: “<”: 有符号/无符号不匹配
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(740): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(765): warning C4018: “<”: 有符号/无符号不匹配
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(796): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(843): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note: 参见“strncpy”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(970): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 3 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(970): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 4 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(970): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 5 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(970): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 6 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(970): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 7 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(970): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 8 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(970): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 9 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(970): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 10 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(970): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 11 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(970): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(1025): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 4 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(1025): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 5 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(1025): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 6 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(1025): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 7 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(1025): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 8 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(1025): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(1104): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(1120): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(1133): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(1158): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(1161): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 3 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(1161): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 4 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(1161): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 5 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(1161): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 6 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(1161): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(1438): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 4 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(1438): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(1578): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(1851): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 2 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(1851): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(1963): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2042): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 2 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2042): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 3 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2041): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2204): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 2 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2204): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 3 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2204): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 4 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2204): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2243): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 2 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2243): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2246): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2380): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 2 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2380): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 3 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2380): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 4 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2380): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 5 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2380): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 6 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2380): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 7 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2380): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 8 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2380): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 9 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2380): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 10 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2380): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 11 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2380): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2394): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2400): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 2 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2400): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2519): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2520): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2538): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2550): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 5 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2550): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 6 拥有了类型“unsigned long”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2550): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2563): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 5 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2563): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 6 拥有了类型“unsigned long”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2563): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2600): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 3 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2600): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 4 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2600): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 5 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2600): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 6 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2600): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2681): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 2 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2681): warning C4477: “_snprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 3 拥有了类型“DWORD”
+e:\编程项目\调试器\dbgproject\project2\pe.cpp(2681): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1961): note: 参见“_snprintf”的声明
+  Project2.vcxproj -> E:\编程项目\调试器\DbgProject\Debug\DbgProject.exe
